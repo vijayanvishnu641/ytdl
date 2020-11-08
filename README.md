@@ -8,7 +8,7 @@ help - Help regarding bot usage
 video - <YouTube link> to download video
 audio - <YouTube link> to download audio
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy=templet?https://github.com/kirodewal/ytdl)
 
 Credits : Me and only ME. I see no God up Here. Other than Me. 
 ![](https://i.imgur.com/sUlocsy.png)
