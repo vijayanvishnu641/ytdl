@@ -1,0 +1,25 @@
+{
+  "name": "ytdl",
+  "name": "ytdl", "description": "A Telegram YouTUbe to audio/viodo downloader, made with pyrogram",
+  "repository": "https://github.com/infinity-plus/YT_downloader_bot",
+  "logo": "https://hdqwalls.com/wallpapers/venom-oled-illustration-5k-cq.jpg",
+  "keywords": [
+      "python",
+      "pyrogram", 
+      "telegram",
+      "youtube"
+  ],
+    "image": "heroku/python",
+    "formation": { 
+        "worker": {1234736792
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+    "env": {
+        "API_ID": {4012617},
+        "API_HASH": {4657ccf220042f7bbfa957c5ec2d7bf7},        
+        "BOT_TOKEN": {1840224308:AAGwgb1UV6mhJvKx2ka8_E6eP59GtgO3pg
+ }
+    }
+}
